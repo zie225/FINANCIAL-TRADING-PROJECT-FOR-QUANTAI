@@ -1,0 +1,2 @@
+# FINANCIAL-TRADING-PROJECT-FOR-QUANTAI
+A stock-screener is a very common tool used to search for stocks that meet certain criteria, e.g. low valuation ratios, high sales-growth, etc. This tutorial shows how to make a basic stock-screener using the signals calculated in the previous tutorial.  We will also show how to back-test a stock-screener to see if it would have been able to discover profitable investments in the past. And we will show how to optimize the screener criteria to maximize the average returns.
